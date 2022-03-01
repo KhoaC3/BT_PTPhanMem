@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\khoat\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\khoat\\.nuget\\packages"
+      "C:\\Users\\vieta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vieta\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
